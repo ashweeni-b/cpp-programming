@@ -23,5 +23,9 @@
 1. Write a program to find the area of a rectangle
 
     Solution: [Area of rectangle](./area_of_rectangle.cpp)
+
+1. Write a program to find the area and circumference of a circle
+
+    Solution: [Area and Circumference of Circle](./area_circumference_circle.cpp)
     
 ---
