@@ -11,3 +11,9 @@
 1. Write a program to demonstrate the use of input and output
 
     Solution: [Input and Output](./input_output.cpp)
+
+1. Write a program to print the name, age and city
+
+    Solution: [Print name, age and city](./name_age_city.cpp)
+
+---
