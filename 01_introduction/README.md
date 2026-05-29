@@ -16,4 +16,8 @@
 
     Solution: [Print name, age and city](./name_age_city.cpp)
 
+1. Write a program to take two numbers as input and output their sum
+
+    Solution: [Sum of two numbers](./sum_of_two_numbers.cpp)
+    
 ---
