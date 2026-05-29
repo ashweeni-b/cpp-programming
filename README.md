@@ -1,4 +1,4 @@
-## C Playground 🚀
+## C++ Playground 🚀
 
 A structured repository for practicing C++ programming - from fundamentals to problem-solving. 
 
@@ -15,6 +15,7 @@ Each folder contains:
 ### 🧠 Topics Covered
 
 1. Basics of Programming
+1. Variables & Datatypes
 
 ### ⚙️ How to Run
 

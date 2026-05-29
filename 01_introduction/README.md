@@ -4,4 +4,6 @@
 
     Solution: [Hello World](./hello_world.cpp)
 
-1. 
+1. Write a program to demonstrate the use of variables and datatypes.
+
+    Solution: [Variable and Data Types](./variables.cpp)
