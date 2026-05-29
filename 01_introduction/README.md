@@ -19,5 +19,9 @@
 1. Write a program to take two numbers as input and output their sum
 
     Solution: [Sum of two numbers](./sum_of_two_numbers.cpp)
+
+1. Write a program to find the area of a rectangle
+
+    Solution: [Area of rectangle](./area_of_rectangle.cpp)
     
 ---
