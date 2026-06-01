@@ -31,5 +31,9 @@
 1. Write a program to convert temperature from Celsius to Fahrenheit
 
     Solution: [Temperature Conversion - Celsius to Fahrenheit](./celsius_to_farhrenheit.cpp)
-    
+
+1. Write a program to swap two numbers using a third variable
+
+    Solution: [Swapping of two numbers - Using third variable](./swapping_using_variables.cpp)
+
 ---
