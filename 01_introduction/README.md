@@ -40,4 +40,8 @@
 
     Solution: [Swapping of two numbers - Without using third variable](./swapping_without_third_variable.cpp)
 
+1. Write a program to calculate the square and cube of a number input by the user
+
+    Solution: [Square and Cube of a number](./square_and_cube.cpp)
+
 ---
