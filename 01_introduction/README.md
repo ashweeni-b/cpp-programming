@@ -36,4 +36,8 @@
 
     Solution: [Swapping of two numbers - Using third variable](./swapping_using_variables.cpp)
 
+1. Write a program to swap two numbers without using a thrid variable
+
+    Solution: [Swapping of two numbers - Without using third variable](./swapping_without_third_variable.cpp)
+
 ---
