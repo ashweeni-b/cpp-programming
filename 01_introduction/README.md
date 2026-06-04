@@ -44,4 +44,8 @@
 
     Solution: [Square and Cube of a number](./square_and_cube.cpp)
 
+1. Write a program to convert minutes into hours and minutes
+
+    Solution: [Hours and minutes](./hours_and_minutes.cpp)
+
 ---
