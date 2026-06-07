@@ -12,3 +12,7 @@
 
     Solution: [Largest among two numbers](./largest_among_two_numbers.cpp)
 
+1. Write a program to find the largest among three numbers
+
+    Soltuion: [Largest among three numbers](./largest_among_three_numbers.cpp)
+
