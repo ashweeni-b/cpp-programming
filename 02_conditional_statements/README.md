@@ -20,3 +20,7 @@
 
     Solution: [Leap Year](./leap_year.cpp)
 
+1. Write a program to check whether a character is a vowel or consonant
+
+    Solution: [Vowel or Consonant](./vowel_or_consonant.cpp)
+
