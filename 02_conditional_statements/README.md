@@ -14,5 +14,9 @@
 
 1. Write a program to find the largest among three numbers
 
-    Soltuion: [Largest among three numbers](./largest_among_three_numbers.cpp)
+    Solution: [Largest among three numbers](./largest_among_three_numbers.cpp)
+
+1. Write a program to check whether a year is a leap year or not
+
+    Solution: [Leap Year](./leap_year.cpp)
 
