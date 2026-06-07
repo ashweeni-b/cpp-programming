@@ -24,3 +24,7 @@
 
     Solution: [Vowel or Consonant](./vowel_or_consonant.cpp)
 
+1. Write a program to check whether a character is an uppercase or lowercase
+
+    Solution: [Uppercase or Lowercase](./uppercase_or_lowercase.cpp)
+
