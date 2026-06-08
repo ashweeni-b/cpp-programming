@@ -40,3 +40,7 @@
     [Using Division Method](./binary_to_decimal_division_method.cpp) <br />
     [Using Bitwise Method](./binary_to_decimal_bitwise_method.cpp)
 
+1. Write a program to print even and odd numbers between 1 and 100
+
+    Solution: [Even and Odd numbers](./even_and_odd_numbers.cpp)
+
