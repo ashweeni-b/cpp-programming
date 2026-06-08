@@ -34,3 +34,9 @@
     [Using Division Method](./decimal_to_binary_division_method.cpp) <br />
     [Using Bitwise Method](./decimal_to_binary_bitwise_method.cpp)
 
+1. Write a program to convert binary to decimal number
+
+    Solution: <br />
+    [Using Division Method](./binary_to_decimal_division_method.cpp) <br />
+    [Using Bitwise Method](./binary_to_decimal_bitwise_method.cpp)
+
