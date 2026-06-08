@@ -24,3 +24,7 @@
 
     Solution: [Print A to Z](./print_A_to_Z.cpp)
 
+1. Write a program to print alphabets from a to z
+
+    Solution: [Print a to z](./print_small_a_to_z.cpp)
+
