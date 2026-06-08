@@ -8,3 +8,7 @@
 
     Solution: [Print 100 to 1](./print_100_to_1.cpp)
 
+1. Write a program to print the name "Jacob" 50 times
+
+    Solution: [Printing Jacob 50 times](./printing_Jacob.cpp)
+

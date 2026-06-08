@@ -16,6 +16,12 @@ Each folder contains:
 
 1. Basics of Programming
 1. Variables & Datatypes
+1. Input & Output
+1. Instructions
+1. Operators
+1. Conditional Statements
+1. Loop Control Statements
+1. Functions
 
 ### ⚙️ How to Run
 
