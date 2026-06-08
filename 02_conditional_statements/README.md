@@ -28,3 +28,7 @@
 
     Solution: [Uppercase or Lowercase](./uppercase_or_lowercase.cpp)
 
+1. Write a program to check whether a number is divisible by 5 and 11 or not
+
+    Solution: [Divisible by 5 and 11](./divisible_by_5_and_11.cpp)
+
