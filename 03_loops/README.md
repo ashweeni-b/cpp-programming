@@ -28,3 +28,9 @@
 
     Solution: [Print a to z](./print_small_a_to_z.cpp)
 
+1. Write a program to convert decimal to binary number
+
+    Solution: <br />
+    [Using Division Method](./decimal_to_binary_division_method.cpp) <br />
+    [Using Bitwise Method](./decimal_to_binary_bitwise_method.cpp)
+
