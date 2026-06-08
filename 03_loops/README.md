@@ -16,3 +16,7 @@
 
     Solution: [Print 0 to -10](./print_0_to_-10.cpp)
 
+1. Write a program to print the multiplication table of 7
+
+    Solution: [Multiplication table of 7](./multiplication_table_of_7.cpp)
+
