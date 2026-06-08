@@ -20,3 +20,7 @@
 
     Solution: [Multiplication table of 7](./multiplication_table_of_7.cpp)
 
+1. Write a program to print alphabets from A to Z
+
+    Solution: [Print A to Z](./print_A_to_Z.cpp)
+
