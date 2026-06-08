@@ -12,3 +12,7 @@
 
     Solution: [Printing Jacob 50 times](./printing_Jacob.cpp)
 
+1. Write a program to print number from 0 to -10
+
+    Solution: [Print 0 to -10](./print_0_to_-10.cpp)
+
