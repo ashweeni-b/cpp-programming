@@ -32,3 +32,7 @@
 
     Solution: [Divisible by 5 and 11](./divisible_by_5_and_11.cpp)
 
+1. Write a program to check whether a triangle is valid or not
+
+    Solution: [Triangle Check](./triangle_check.cpp)
+
