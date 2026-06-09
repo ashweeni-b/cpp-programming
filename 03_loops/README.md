@@ -48,3 +48,7 @@
 
     Solution: [Sum of first n natural numbers](./sum_of_natural_numbers.cpp)
 
+1. Write a program to find the factorial of a number
+
+    Solution: [Factorial of a number](./factorial.cpp)
+
