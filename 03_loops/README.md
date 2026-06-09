@@ -60,3 +60,7 @@
 
     Solution: [Reverse the number](./reverse_number.cpp)
 
+1. Write a program to check whether a number is a palindrome or not
+
+    Solution: [Palindrome Number](./palindrome_number.cpp)
+
