@@ -52,3 +52,7 @@
 
     Solution: [Factorial of a number](./factorial.cpp)
 
+1. Write a program to count the digit in a number
+
+    Solution: [Digit in a number](./digit_in_a_number.cpp)
+
