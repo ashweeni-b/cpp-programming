@@ -44,3 +44,7 @@
 
     Solution: [Even and Odd numbers](./even_and_odd_numbers.cpp)
 
+1. Write a program to find the sum of first n natural numbers
+
+    Solution: [Sum of first n natural numbers](./sum_of_natural_numbers.cpp)
+
