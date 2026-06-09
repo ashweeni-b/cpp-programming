@@ -68,3 +68,7 @@
 
     Solution: [Armstrong Number](./armstrong_number.cpp)
 
+1. Write a program to calculate the sum and product of digits of a number
+
+    Solution: [Sum and Product of Digits](./sum_and_product.cpp)
+
