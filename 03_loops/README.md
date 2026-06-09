@@ -64,3 +64,7 @@
 
     Solution: [Palindrome Number](./palindrome_number.cpp)
 
+1. Write a program to check whether a number is an armstrong or not
+
+    Solution: [Armstrong Number](./armstrong_number.cpp)
+
