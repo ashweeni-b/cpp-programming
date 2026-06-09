@@ -56,3 +56,7 @@
 
     Solution: [Digit in a number](./digit_in_a_number.cpp)
 
+1. Write a program to reverse the number
+
+    Solution: [Reverse the number](./reverse_number.cpp)
+
