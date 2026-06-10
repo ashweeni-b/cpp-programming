@@ -79,3 +79,7 @@
 1. Write a program to calculate the GCD of two numbers
 
     Solution: [GCD of two numbers](./gcd_of_number.cpp)
+
+1. Write a program to calculate the LCM of two numbers
+
+    Solution: [LCM of two numbers](./lcm_of_numbers.cpp)
