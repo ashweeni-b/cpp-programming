@@ -17,4 +17,13 @@
     * * * * <br />
 
     Solution: [Square Star Pattern](./square_star_pattern.cpp)
+
+1. Square Character Pattern
+
+    A B C D <br />
+    A B C D <br />
+    A B C D <br />
+    A B C D <br />
+
+    Solution: [Square Character Pattern](./square_character_pattern.cpp)
     
