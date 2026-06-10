@@ -83,3 +83,8 @@
 1. Write a program to calculate the LCM of two numbers
 
     Solution: [LCM of two numbers](./lcm_of_numbers.cpp)
+
+1. Write a program to check whether a number is prime number or not
+
+    Solution: [Prime number check](./prime_number_or_not.cpp)
+
