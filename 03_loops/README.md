@@ -76,3 +76,6 @@
 
     Solution: [Fibonacci Series n terms](./fibonacci_series_n_terms.cpp)
 
+1. Write a program to calculate the GCD of two numbers
+
+    Solution: [GCD of two numbers](./gcd_of_number.cpp)
