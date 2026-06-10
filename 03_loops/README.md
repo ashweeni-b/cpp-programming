@@ -88,3 +88,7 @@
 
     Solution: [Prime number check](./prime_number_or_not.cpp)
 
+1. Write a program to print all the prime numbers in the range
+
+    Solution: [Prime number in the range](./prime_number_range.cpp)
+
