@@ -96,3 +96,8 @@
 
     Solution: [Power of a number](./power_of_number.cpp)
 
+1. Write a program to find the factors of a number
+
+    Solution: [Factors of a number](./factors_of_numbers.cpp)
+
+---
