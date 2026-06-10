@@ -7,7 +7,6 @@
     1 2 3 4 <br />
     1 2 3 4 <br />
 
-    Solution: [Square NumberPattern](./square_number_pattern.cpp)
     Solution: [Square Number Pattern](./square_number_pattern.cpp)
 
 1. Square Star Pattern
@@ -27,7 +26,6 @@
     A B C D <br />
 
     Solution: [Square Character Pattern](./square_character_pattern.cpp)
-    
 
 1. Square Continuous Number Pattern
 
@@ -36,4 +34,13 @@
     7 8 9 <br />
 
     Solution: [Square Continuous Number Pattern](./square_continuous_number_pattern.cpp)
+
+1. Square Continuous Character Pattern
+
+    A B C D <br />
+    E F G H <br />
+    I J K L <br />
+    M N O P <br />
+
+    Solution: [Square Continuous Character Pattern](./square_continuous_character_pattern.cpp)
 
