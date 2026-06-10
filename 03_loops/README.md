@@ -72,3 +72,7 @@
 
     Solution: [Sum and Product of Digits](./sum_and_product.cpp)
 
+1. Write a program to print fibonacci series up to n terms
+
+    Solution: [Fibonacci Series n terms](./fibonacci_series_n_terms.cpp)
+
