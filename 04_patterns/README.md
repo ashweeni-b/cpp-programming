@@ -116,3 +116,11 @@
 
     Solution: [Floyd's Triangle Character Pattern](./floyds_triangle_character_pattern.cpp)
 
+1. Inverted Right Triangle Number Pattern
+
+    1 1 1 1 <br />
+    &nbsp; &nbsp;2 2 2 <br />
+    &nbsp; &nbsp; &nbsp; 3 3 <br />
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;4 <br />
+
+    Solution: [Inverted Right Triangle Number Pattern](./inverted_right_triangle_number_pattern.cpp)
