@@ -80,3 +80,12 @@
 
     Solution: [Left Triangle Number Pattern](./left_triangle_number_pattern.cpp)
 
+1. Reverse Left Triangle Number Pattern
+
+    1 <br />
+    2 1 <br />
+    3 2 1 <br />
+    4 3 2 1 <br />
+
+    Solution: [Reverse Left Triangle Number Pattern](./reverse_left_triangle_number_pattern.cpp)
+
