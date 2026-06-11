@@ -133,3 +133,12 @@
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D <br />
 
     Solution: [Inverted Right Triangle Character Pattern](./inverted_right_triangle_character_pattern.cpp)
+
+1. Pyramid Number Pattern
+
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;1 <br />
+    &nbsp; &nbsp; &nbsp; 1 2 1 <br />
+    &nbsp; &nbsp;1 2 3 2 1 <br />
+    1 2 3 4 3 2 1 <br />
+
+    Solution: [Pyramid Number Pattern](./pyramid_number_pattern.cpp)
