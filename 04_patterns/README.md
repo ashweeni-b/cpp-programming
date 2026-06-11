@@ -97,3 +97,13 @@
     7 8 9 10 <br />
 
     Solution: [Floyd's Triangle Number Pattern](./floyds_triangle_number_pattern.cpp)
+
+1. Floyd's Triangle Character Pattern
+
+    A <br />
+    B C <br />
+    D E F <br />
+    G H I J <br />
+
+    Solution: [Floyd's Triangle Character Pattern](./floyds_triangle_character_pattern.cpp)
+
