@@ -89,3 +89,11 @@
 
     Solution: [Reverse Left Triangle Number Pattern](./reverse_left_triangle_number_pattern.cpp)
 
+1. Floyd's Triangle Number Pattern
+
+    1  <br />
+    2 3  <br />
+    4 5 6 <br />
+    7 8 9 10 <br />
+
+    Solution: [Floyd's Triangle Number Pattern](./floyds_triangle_number_pattern.cpp)
