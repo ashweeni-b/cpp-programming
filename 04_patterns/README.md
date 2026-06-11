@@ -124,3 +124,12 @@
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;4 <br />
 
     Solution: [Inverted Right Triangle Number Pattern](./inverted_right_triangle_number_pattern.cpp)
+
+1. Inverted Right Triangle Character Pattern
+
+    A A A A <br />
+    &nbsp; &nbsp;B B B <br />
+    &nbsp; &nbsp; &nbsp; C C <br />
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D <br />
+
+    Solution: [Inverted Right Triangle Character Pattern](./inverted_right_triangle_character_pattern.cpp)
