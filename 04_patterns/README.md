@@ -11,10 +11,10 @@
 
 1. Square Star Pattern
 
-    * * * * <br />
-    * * * * <br />
-    * * * * <br />
-    * * * * <br />
+    \* \* \* \* <br />
+    \* \* \* \* <br />
+    \* \* \* \* <br />
+    \* \* \* \* <br />
 
     Solution: [Square Star Pattern](./square_star_pattern.cpp)
 
@@ -46,14 +46,13 @@
 
 1. Left Triangle Star Pattern
 
-    * <br />
-    * * <br />
-    * * * <br />
-    * * * * <br />
+    \* <br />
+    \* \* <br />
+    \* \* \* <br />
+    \* \* \* \* <br />
 
     Solution: [Left Triangle Star Pattern](./left_triangle_star_pattern.cpp)
 
-1. Left Triangle Number Pattern
 1. Left Triangle Continuous Number Pattern
 
     1  <br />
