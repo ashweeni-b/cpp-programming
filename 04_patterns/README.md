@@ -89,6 +89,15 @@
 
     Solution: [Reverse Left Triangle Number Pattern](./reverse_left_triangle_number_pattern.cpp)
 
+1. Reverse Left Triangle Character Pattern
+
+    A <br />
+    B A <br />
+    C B A <br />
+    D C B A <br />
+
+    Solution: [Reverse Left Triangle Character Pattern](./reverse_left_triangle_character_pattern.cpp)
+
 1. Floyd's Triangle Number Pattern
 
     1  <br />
