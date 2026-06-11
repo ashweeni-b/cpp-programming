@@ -44,3 +44,12 @@
 
     Solution: [Square Continuous Character Pattern](./square_continuous_character_pattern.cpp)
 
+1. Left Triangle Star Pattern
+
+    * <br />
+    * * <br />
+    * * * <br />
+    * * * * <br />
+
+    Solution: [Left Triangle Star Pattern](./left_triangle_star_pattern.cpp)
+
