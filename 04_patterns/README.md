@@ -72,5 +72,12 @@
 
     Solution: [Left Triangle Continuous Character Pattern](./left_triangle_continuous_character_pattern.cpp)
 
+1. Left Triangle Number Pattern
+
+    1  <br />
+    1 2  <br />
+    1 2 3  <br />
+    1 2 3 4 <br />
+
     Solution: [Left Triangle Number Pattern](./left_triangle_number_pattern.cpp)
 
