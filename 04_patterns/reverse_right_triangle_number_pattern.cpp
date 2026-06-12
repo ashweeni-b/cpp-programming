@@ -1,5 +1,5 @@
 /*
-Problem: Star Pattern
+Problem: Reverse Right Triangle Number Pattern
 Concept: Loops
 */
 
@@ -12,11 +12,11 @@ int main() {
     std::cin >> n;
 
     for(int i = 0; i < n; i++) {
-        for(int j = 0; j <= i; j++) {
-            std::cout << "*" << "  ";
+        for(int j = i + 1; j > 0; j--) {
+            std::cout << j << "  ";
         }
 
-        std::cout << std::endl;
+        std::cout << "\n";
     }
 
     return 0;

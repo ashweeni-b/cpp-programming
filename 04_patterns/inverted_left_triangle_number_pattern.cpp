@@ -1,5 +1,5 @@
 /*
-Problem: Inverted Right Triangle Number Pattern
+Problem: Inverted Left Triangle Number Pattern
 Concept: Loops
 */
 

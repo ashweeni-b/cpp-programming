@@ -1,5 +1,5 @@
 /*
-Problem: Reverse Left Triangle Pattern Problem
+Problem: Right Triangle Continuous Number Pattern
 Concept: Loops
 */
 
@@ -11,11 +11,14 @@ int main() {
     std::cout << "Enter the value of n: ";
     std::cin >> n;
 
+    int num = 1;
+
     for(int i = 0; i < n; i++) {
-        for(int j = i + 1; j > 0; j--) {
-            std::cout << j << "  ";
+        for(int j = 0; j <= i; j++) {
+            std::cout << num << "  ";
         }
 
+        num++;
         std::cout << "\n";
     }
 

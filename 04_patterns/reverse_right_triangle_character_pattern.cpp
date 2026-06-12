@@ -1,5 +1,5 @@
 /*
-Problem: Reverse Left Triangle Character Pattern
+Problem: Reverse Right Triangle Character Pattern
 Concept: Loops
 */
 
