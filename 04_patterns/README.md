@@ -145,13 +145,27 @@
 
 1. Hollow Diamond Pattern
 
-    &nbsp; &nbsp; &nbsp; * <br />
-    &nbsp; &nbsp; * &nbsp; * <br />
-    &nbsp; * &nbsp; &nbsp; &nbsp; * <br />
-    * &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; * <br />
-    &nbsp; * &nbsp; &nbsp; &nbsp; * <br />
-    &nbsp; &nbsp; * &nbsp; * <br />
-    &nbsp; &nbsp; &nbsp; * <br />
+    &nbsp; &nbsp; &nbsp; \* <br />
+    &nbsp; &nbsp; \* &nbsp; \* <br />
+    &nbsp; \* &nbsp; &nbsp; &nbsp; \* <br />
+    \* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \* <br />
+    &nbsp; \* &nbsp; &nbsp; &nbsp; \* <br />
+    &nbsp; &nbsp; \* &nbsp; \* <br />
+    &nbsp; &nbsp; &nbsp; \* <br />
 
     Solution: [Hollow Diamond Pattern](./hollow_diamond_pattern.cpp)
 
+1. Butterfly Pattern
+
+    \* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \* 
+    \* \* &nbsp; &nbsp; &nbsp; &nbsp; \* \* 
+    \* \* \* &nbsp; &nbsp; \* \* \* 
+    \* \* \* \* \* \* \* \* 
+    \* \* \* \* \* \* \* \* 
+    \* \* \* &nbsp; &nbsp; \* \* \* 
+    \* \* &nbsp; &nbsp; &nbsp; &nbsp; \* \* 
+    \* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \* 
+
+    Solution: [Butterfly Pattern](./butterfly_pattern.cpp)
+
+---
