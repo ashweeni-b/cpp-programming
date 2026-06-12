@@ -142,3 +142,16 @@
     1 2 3 4 3 2 1 <br />
 
     Solution: [Pyramid Number Pattern](./pyramid_number_pattern.cpp)
+
+1. Hollow Diamond Pattern
+
+    &nbsp; &nbsp; &nbsp; * <br />
+    &nbsp; &nbsp; * &nbsp; * <br />
+    &nbsp; * &nbsp; &nbsp; &nbsp; * <br />
+    * &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; * <br />
+    &nbsp; * &nbsp; &nbsp; &nbsp; * <br />
+    &nbsp; &nbsp; * &nbsp; * <br />
+    &nbsp; &nbsp; &nbsp; * <br />
+
+    Solution: [Hollow Diamond Pattern](./hollow_diamond_pattern.cpp)
+
