@@ -28,3 +28,7 @@
 
     Solution: [Maximum of three numbers](./maximum_of_three_numbers.cpp)
 
+1. Write a program to check whether a number is even or odd
+
+    Solution: [Even or Odd Number Check](./even_or_odd.cpp)
+
