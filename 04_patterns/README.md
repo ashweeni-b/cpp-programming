@@ -157,14 +157,14 @@
 
 1. Butterfly Pattern
 
-    \* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \* <br />
-    \* \* &nbsp; &nbsp; &nbsp; &nbsp; \* \* <br />
-    \* \* \* &nbsp; &nbsp; \* \* \* <br />
+    \* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\* <br />
+    \* \* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \* \* <br />
+    \* \* \* &nbsp; &nbsp; &nbsp;\* \* \* <br />
     \* \* \* \* \* \* \* \* <br />
     \* \* \* \* \* \* \* \* <br />
-    \* \* \* &nbsp; &nbsp; \* \* \* <br /> 
-    \* \* &nbsp; &nbsp; &nbsp; &nbsp; \* \* <br />
-    \* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \* <br />
+    \* \* \* &nbsp; &nbsp; &nbsp;\* \* \* <br /> 
+    \* \* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \* \* <br />
+    \* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\* <br />
 
     Solution: [Butterfly Pattern](./butterfly_pattern.cpp)
 
