@@ -12,6 +12,8 @@
 
     Solution: [Prime Numbers](./prime_numbers_1_to_100.cpp)
 
-1. Write a function to check whether someone is eligible to voting or not
+1. Write a program to check whether a person is eligible to vote or not
+
+    Solution: [Eligible to Vote](./voting_eligibility.cpp)
 
 1. Write a SIP calculator using function's concept
