@@ -4,7 +4,9 @@
 
     Solution: [Print 1 to 100](./print_1_to_100.cpp)
 
-1. Write a function to find simple interest
+1. Write a program to calculate simple interest
+
+    Solution: [Simple Interest](./simple_interest.cpp)
 
 1. Write a function to print prime numbers from 1 to 100
 
