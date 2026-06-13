@@ -19,3 +19,8 @@
 1. Write a program to add two numbers
 
     Solution: [Sum of two numbers](./add_two_numbers.cpp)
+
+1. Write a program to find the maximum of two numbers
+
+    Solution: [Maximum of two numbers](./maximum_of_two_numbers.cpp)
+
