@@ -32,3 +32,7 @@
 
     Solution: [Even or Odd Number Check](./even_or_odd.cpp)
 
+1. Write a program to calculate factorial of a number
+
+    Solution: [Factorial of a number](./factorial.cpp)
+
