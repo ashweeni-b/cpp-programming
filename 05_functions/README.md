@@ -24,3 +24,7 @@
 
     Solution: [Maximum of two numbers](./maximum_of_two_numbers.cpp)
 
+1. Write a program to find the maximum of three numbers
+
+    Solution: [Maximum of three numbers](./maximum_of_three_numbers.cpp)
+
