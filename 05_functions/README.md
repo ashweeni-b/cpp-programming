@@ -16,4 +16,6 @@
 
     Solution: [Eligible to Vote](./voting_eligibility.cpp)
 
-1. Write a SIP calculator using function's concept
+1. Write a program to add two numbers
+
+    Solution: [Sum of two numbers](./add_two_numbers.cpp)
