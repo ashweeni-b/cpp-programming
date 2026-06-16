@@ -36,3 +36,7 @@
 
     Solution: [Factorial of a number](./factorial.cpp)
 
+1. Write a program to calculate nCr
+
+    Solution: [nCr calculation](./ncr.cpp)
+
