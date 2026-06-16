@@ -51,3 +51,8 @@
 1. Write a program to count the digits of a number
 
     Solution: [Count of digits](./count_digits.cpp)
+
+1. Write a program to fnd the sum of a digits of a number
+
+    Solution: [Sum of digits](./sum_of_digits.cpp)
+
