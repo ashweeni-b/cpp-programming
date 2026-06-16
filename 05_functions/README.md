@@ -80,3 +80,7 @@
 
     Solution: [Calculation of power](./power_function.cpp)
 
+1. Write a program to convert decimal number to binary number
+
+    Solution: [Decimal to Binary](./decimal_to_binary.cpp)
+
