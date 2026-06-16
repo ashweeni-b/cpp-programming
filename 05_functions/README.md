@@ -68,3 +68,7 @@
 
     Solution: [GCD of two numbers](./gcd_of_two_numbers.cpp)
 
+1. Write a program to find the LCM of two numbers
+
+    Solution: [LCM of two numbers](./lcm_of_two_numbers.cpp)
+
