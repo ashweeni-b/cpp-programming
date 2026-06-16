@@ -48,3 +48,6 @@
 
     Solution: [Reverse a Number](./reverse_a_number.cpp)
 
+1. Write a program to count the digits of a number
+
+    Solution: [Count of digits](./count_digits.cpp)
