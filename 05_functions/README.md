@@ -76,3 +76,7 @@
 
     Solution: [Nth term of Fibonacci sequence](./fibonacci_nth_term.cpp)
 
+1. Write a program to calculate power without using library functions
+
+    Solution: [Calculation of power](./power_function.cpp)
+
