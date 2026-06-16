@@ -60,4 +60,7 @@
 
     Solution: [Armstrong Number Check](./armstrong_number_check.cpp)
 
+1. Write a program to check whether a number is palindrome or not
+
+    Solution: [Palindrome Number Check](./palindrome_number_check.cpp)
 
