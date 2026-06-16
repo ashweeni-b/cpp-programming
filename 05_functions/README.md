@@ -72,3 +72,7 @@
 
     Solution: [LCM of two numbers](./lcm_of_two_numbers.cpp)
 
+1. Write a program to find the nth term of a fibonacci sequence
+
+    Solution: [Nth term of Fibonacci sequence](./fibonacci_nth_term.cpp)
+
