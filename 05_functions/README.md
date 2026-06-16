@@ -40,3 +40,7 @@
 
     Solution: [nCr calculation](./ncr.cpp)
 
+1. Write a program to check whether a number is prime or not
+
+    Solution: [Prime Number Check](./prime_number_check.cpp)
+
