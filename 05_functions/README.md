@@ -56,3 +56,8 @@
 
     Solution: [Sum of digits](./sum_of_digits.cpp)
 
+1. Write a program to check whether a number is armstrong or not
+
+    Solution: [Armstrong Number Check](./armstrong_number_check.cpp)
+
+
