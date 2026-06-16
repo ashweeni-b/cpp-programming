@@ -64,3 +64,7 @@
 
     Solution: [Palindrome Number Check](./palindrome_number_check.cpp)
 
+1. Write a program to find the GCD of two numbers
+
+    Solution: [GCD of two numbers](./gcd_of_two_numbers.cpp)
+
