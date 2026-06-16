@@ -44,3 +44,7 @@
 
     Solution: [Prime Number Check](./prime_number_check.cpp)
 
+1. Write a program to reverse a number
+
+    Solution: [Reverse a Number](./reverse_a_number.cpp)
+
