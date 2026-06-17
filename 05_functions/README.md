@@ -84,3 +84,8 @@
 
     Solution: [Decimal to Binary](./decimal_to_binary.cpp)
 
+1. Write a program to convert binary to decimal number
+
+    Solution: [Binary to Decimal](./binary_to_decimal.cpp)
+
+--- 
