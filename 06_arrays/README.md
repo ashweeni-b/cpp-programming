@@ -20,3 +20,7 @@
 
     Solution: [Reverse an array](./reverse_an_array.cpp)
 
+1. Write a program to flip 0 to 1 and 1 to 0 in a boolean array
+
+    Solution: [Flipping in boolean array](./flipping_in_boolean_array.cpp)
+
