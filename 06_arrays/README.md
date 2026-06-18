@@ -16,3 +16,7 @@
 
     Solution: [Initialize array with -1](./initialize_array.cpp)
 
+1. Write a program to reverse an array
+
+    Solution: [Reverse an array](./reverse_an_array.cpp)
+
