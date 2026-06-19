@@ -8,3 +8,7 @@
 
     Solution: [Concatenation of string](./concatenation_of_strings.cpp)
 
+1. Write a program to copy one string into another string
+
+    Solution: [Copying of strings](./copying_of_strings.cpp)
+
