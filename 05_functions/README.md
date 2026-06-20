@@ -92,4 +92,8 @@
 
     Solution: [Increment values](./increment_number.cpp)
 
+1. Write a program to swap two numbers using pass by value and pass by reference
+
+    Solution: [Swap numbers](./swap_numbers.cpp)
+
 --- 
