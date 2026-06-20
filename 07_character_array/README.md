@@ -6,17 +6,17 @@
 
 1. Write a program to concatenate two strings
 
-    Solution: [Concatenation of string](./concatenation_of_strings.cpp)
+    Solution: [Concatenation of string](./concatenation_of_char_arrays.cpp)
 
 1. Write a program to copy one string into another string
 
-    Solution: [Copying of strings](./copying_of_strings.cpp)
+    Solution: [Copying of strings](./copying_of_char_arrays.cpp)
 
 1. Write a program to compare two strings
 
-    Solution: [Comparison of strings](./comparison_of_strings.cpp)
+    Solution: [Comparison of strings](./comparison_of_char_arrays.cpp)
 
 1. Write a program demonstrating the use of string library functions
 
-    Solution: [String library functions](./library_functions.cpp)
+    Solution: [String library functions](./char_array_library_functions.cpp)
 
