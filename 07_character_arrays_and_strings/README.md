@@ -32,3 +32,7 @@
 
     Solution: [Palindrome Check](./palindrome_check.cpp)
 
+1. Write a program to count the number of vowels and consonants
+
+    Solution: [Count vowels and consonants](./count_vowels_consonants.cpp)
+
