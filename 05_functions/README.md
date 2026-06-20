@@ -88,4 +88,8 @@
 
     Solution: [Binary to Decimal](./binary_to_decimal.cpp)
 
+1. Write a program to increment a number by using pass by value and pass by reference
+
+    Solution: [Increment values](./increment_number.cpp)
+
 --- 
