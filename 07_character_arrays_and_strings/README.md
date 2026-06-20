@@ -28,3 +28,7 @@
 
     Solution: [Reverse a string](./reverse_string.cpp)
 
+1. Write a program to check for palindrome string
+
+    Solution: [Palindrome Check](./palindrome_check.cpp)
+
