@@ -40,3 +40,7 @@
 
     Solution: [Character Case Conversion](./character_case_conversion.cpp)
 
+1. Write a program to convert the string into integer
+
+    Solution: [String to integer](./string_to_integer.cpp)
+
