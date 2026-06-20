@@ -24,3 +24,7 @@
 
     Solution: [Strings library functions](./strings_library_functions.cpp)
 
+1. Write a program to reverse a string
+
+    Solution: [Reverse a string](./reverse_string.cpp)
+
