@@ -12,3 +12,7 @@
 
     Solution: [Copying of strings](./copying_of_strings.cpp)
 
+1. Write a program to compare two strings
+
+    Solution: [Comparison of strings](./comparison_of_strings.cpp)
+
