@@ -36,3 +36,7 @@
 
     Solution: [Count vowels and consonants](./count_vowels_consonants.cpp)
 
+1. Write a program to convert the case of a character
+
+    Solution: [Character Case Conversion](./character_case_conversion.cpp)
+
