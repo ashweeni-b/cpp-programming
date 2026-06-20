@@ -1,7 +1,7 @@
 /*
-Problem: Concatenate two strings
-Concept: Strings
-Approach: Without using string utility functions
+Problem: Concatenate two char arrays
+Concept: Char arrays
+Approach: Without using char array utility functions
 */
 
 #include <iostream>

@@ -1,10 +1,10 @@
 /*
-Problem: Comparison of strings
-Concept: Strings
-Approach: Without using string utility functions
+Problem: Comparison of char arrays
+Concept: Char arrays
+Approach: Without using char array utility functions
 Returns -1 if character of array1 < character of array2
 Returns 1 if character of array1 > character of array2
-Returns 0 if both strings are equal
+Returns 0 if both char arrays are equal
 */
 
 #include <iostream>

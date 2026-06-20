@@ -1,7 +1,7 @@
 /*
-Program: Copy one string into another
-Concept: Strings
-Approach: Without using string utility functions
+Program: Copy one char array into another
+Concept: Char array
+Approach: Without using char array utility functions
 */
 
 #include <iostream>

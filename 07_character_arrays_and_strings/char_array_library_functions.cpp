@@ -1,6 +1,6 @@
 /*
-Problem: Demonstration of library functions
-Concept: Strings
+Problem: Demonstration of char array library functions
+Concept: Char arrays
 */
 
 #include <iostream>
