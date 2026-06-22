@@ -28,3 +28,7 @@
 
     Solution: [Digit Count](./digit_count.cpp)
 
+1. Write a program to calculate the sum of digits of a number
+
+    Solution: [Digit Sum](./digit_sum.cpp)
+
