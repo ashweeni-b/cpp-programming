@@ -104,4 +104,8 @@
 
     Solution: [Maximum of two numbers](./max_of_two_numbers.cpp)
 
+1. Write a program to pass an array element and increment the element by 3
+
+    Solution: [Modifying array element](./modifying_array_element.cpp)
+
 --- 
