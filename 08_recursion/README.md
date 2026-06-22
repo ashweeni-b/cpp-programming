@@ -32,3 +32,8 @@
 
     Solution: [Digit Sum](./digit_sum.cpp)
 
+1. Write a program to calculate the product of digits of a number
+
+    Solution: [Digit Product](./digit_product.cpp)
+
+---
