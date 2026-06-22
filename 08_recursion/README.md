@@ -20,3 +20,7 @@
 
     Solution: [Power of a number](./power_of_number.cpp)
 
+1. Write a program to find the nth fibonacci number
+
+    Solution: [Nth Fibonacci number](./nth_fibonacci_term.cpp)
+
