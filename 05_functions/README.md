@@ -96,4 +96,8 @@
 
     Solution: [Swap numbers](./swap_numbers.cpp)
 
+1. Write a program to calculate the square of a number using pass by value and pass by reference
+
+    Solution: [Square of a number](./square_of_number.cpp)  
+
 --- 
