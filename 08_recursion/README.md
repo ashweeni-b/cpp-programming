@@ -24,3 +24,7 @@
 
     Solution: [Nth Fibonacci number](./nth_fibonacci_term.cpp)
 
+1. Write a program to count the digits in the number
+
+    Solution: [Digit Count](./digit_count.cpp)
+
