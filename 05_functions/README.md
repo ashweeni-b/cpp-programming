@@ -108,4 +108,8 @@
 
     Solution: [Modifying array element](./modifying_array_element.cpp)
 
+1. Write a program to update values of two variables by multiple of 5 and multiple of 10 respectively
+
+    Solution: [Modify variables](./modify_variables.cpp)
+
 --- 
