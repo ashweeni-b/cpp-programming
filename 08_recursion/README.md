@@ -8,3 +8,7 @@
 
     Solution: [Print N to 1](./print_N_to_1.cpp)
 
+1. Write a program to calculate the sum of first n numbers
+
+    Solution: [Sum of first n numbers](./sum_of_first_n_numbers.cpp)
+
