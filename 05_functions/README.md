@@ -100,4 +100,8 @@
 
     Solution: [Square of a number](./square_of_number.cpp)  
 
+1. Write a program to find the maximum of two numbers using pass by value and pass by reference
+
+    Solution: [Maximum of two numbers](./max_of_two_numbers.cpp)
+
 --- 
