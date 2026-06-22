@@ -16,3 +16,7 @@
 
     Solution: [Factorial of number](./factorial.cpp)
 
+1. Write a program to calculate the power of a number
+
+    Solution: [Power of a number](./power_of_number.cpp)
+
