@@ -24,3 +24,7 @@
 
     Solution: [Smallest element of array](./smallest_array_element.cpp)
 
+1. Write a program to reverse an array using pointers
+
+    Solution: [Reverse an array](./reverse_an_array.cpp)
+
