@@ -16,3 +16,7 @@
 
     Solution: [Sum of array elements](./sum_array_elements.cpp)
 
+1. Write a program to find the largest element of the array using pointers
+
+    Solution: [Largest element of array](./largest_array_element.cpp)
+
