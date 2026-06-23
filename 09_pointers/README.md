@@ -12,3 +12,7 @@
 
     Solution: [Access array elements](./access_array.cpp)
 
+1. Write a program to find the sum of array elements using pointers
+
+    Solution: [Sum of array elements](./sum_array_elements.cpp)
+
