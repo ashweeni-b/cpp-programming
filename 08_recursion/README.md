@@ -39,5 +39,9 @@
 1. Write a program to reverse a number
 
     Solution: [Reverse a number](./reverse_a_number.cpp)
-    
+
+1. Write a program to reverse a string
+
+    Solution: [Reverse a string](./reverse_a_string.cpp)
+
 ---
