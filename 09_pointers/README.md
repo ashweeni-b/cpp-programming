@@ -28,3 +28,7 @@
 
     Solution: [Reverse an array](./reverse_an_array.cpp)
 
+1. Write a program to swap two numbers using pointers
+
+    Solution: [Swap two numbers](./swap_two_numbers.cpp)
+
