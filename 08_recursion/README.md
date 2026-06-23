@@ -44,4 +44,8 @@
 
     Solution: [Reverse a string](./reverse_a_string.cpp)
 
+1. Write a program to check whether a string is palindrome
+
+    Solution: [Palindrome string check](./palindrome_string_check.cpp)
+    
 ---
