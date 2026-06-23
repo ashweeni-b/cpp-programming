@@ -20,3 +20,7 @@
 
     Solution: [Largest element of array](./largest_array_element.cpp)
 
+1. Write a program to find the smallest element of the array using pointers
+
+    Solution: [Smallest element of array](./smallest_array_element.cpp)
+
