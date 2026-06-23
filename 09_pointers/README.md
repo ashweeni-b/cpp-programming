@@ -8,3 +8,7 @@
 
     Solution: [Pointer Arithmetic on arrays](./pointer_arithmetic_on_array.cpp)
 
+1. Write a program to access array elements using pointers
+
+    Solution: [Access array elements](./access_array.cpp)
+
