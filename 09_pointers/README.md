@@ -32,3 +32,7 @@
 
     Solution: [Swap two numbers](./swap_two_numbers.cpp)
 
+1. Write a program to find the maximum of two numbers using pointer
+
+    Solution: [Maximum of two numbers](./max_of_two_numbers.cpp)
+
